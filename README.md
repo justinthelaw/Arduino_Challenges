@@ -1,4 +1,4 @@
-# Let-It-Go-Wind-Chimes
+# wind-chime-arduino-script
 ---
 ### This is a repository for an Arduino Programming Language study project. 
 ---
